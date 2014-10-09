@@ -1,4 +1,7 @@
-The assignment is to create an HTML and CSS file for the [Surf & Paddle design](surf-and-paddle.png).
+Week 3 Lab
+==========
+
+The lab is to create an HTML and CSS file for the [Surf & Paddle design](surf-and-paddle.png).
 - This homework will be due on Monday at 9am
 - You can use any images you'd like for the design (even http://placekitten.com !)
 - It should be a pixel perfect recreation of the design and layout. (I will be overlaying the image over your site to check if it's a perfect match.)
